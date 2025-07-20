@@ -28,16 +28,9 @@
 
 **Data Handling:** I implemented mechanisms for real-time data handling, allowing users to see updates almost instantaneously. This is important for application functionality where multiple users can interact with data concurrently.
 
-**Summary:** 
-# I cleaned and prepared datasets for various infrastructure components like valves, pipelines, and buildings. This included applying CRUD (Create, Read, Update, Delete) operations to manage data effectively.
-
-# Utilized tools like Leaflet, I created interactive web maps that enable users to visualize and interact with spatial data, enhancing the decision-making process in urban planning and infrastructure management.
-
-# Handling data in real time, allowing for instant updates that reflect changes made by users. This is crucial for applications that require dynamic interaction among multiple users.
-
-# I developed a user-friendly interface that caters to both GIS professionals and the general public. A good UI is essential for enhancing user engagement and ease of use.
-
-# Lastly I tried to make components of the WebGIS system work together, encouraging a deep understanding of the underlying architecture and data flow.
+                                        
+  
+  
 
 
 
