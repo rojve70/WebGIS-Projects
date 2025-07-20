@@ -4,7 +4,9 @@
 
 **Core Technologies Used Front-end Development:**
 
-**HTML & CSS:** I build the structure of web pages using HTML, allowing for the arrangement of content in a logical manner and CSS was utilized to enhance the visual appeal and layout of your web applications. **JavaScript:** I used JavaScript for making the web pages interactive. It was used to respond to user actions, manipulate the Document Object Model (DOM), and create dynamic content without needing to reload the page.
+**HTML & CSS:** I build the structure of web pages using HTML, allowing for the arrangement of content in a logical manner and CSS was utilized to enhance the visual appeal and layout of your web applications. 
+
+**JavaScript:** I used JavaScript for making the web pages interactive. It was used to respond to user actions, manipulate the Document Object Model (DOM), and create dynamic content without needing to reload the page.
 **Bootstrap:** Frameworks like Bootstrap was used for responsive design, ensuring the interface looks good on any device. It makes visually appealing, improving the overall interface.
 **jQuery:** This library simplified JavaScript tasks, making it easier to handle events, animate elements, and manage data without complicated code. It helped streamline interactions with the front-end components, simplifying DOM manipulation and event handling, making your web applications more dynamic.
 **Leaflet:** I integrated Leaflet to create interactive maps, enabling users to visualize and interact with spatial data. This included adding markers, pop-ups, and layers to display various data types.
